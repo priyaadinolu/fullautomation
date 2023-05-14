@@ -7,4 +7,3 @@
 # fullautomation
 # fullautomation
 # fullautomation
-# full
