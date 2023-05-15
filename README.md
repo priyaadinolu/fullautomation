@@ -7,6 +7,5 @@
 # DevOps_7PM_Batch
 # fullautomation
 # fullautomation
-# fullautomation
-# mydata
+# fullautomatio
 
